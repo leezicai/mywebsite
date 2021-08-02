@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://leezicai.github.io/mywebsite/sitemap.xml
