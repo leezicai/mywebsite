@@ -2,17 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leezicai.github.io/mywebsite/</loc>
+    <loc>https://mywebsite.lizicai.com/categories/</loc>
     <lastmod>2021-08-03T00:48:36+08:00</lastmod>
   </url><url>
-    <loc>https://leezicai.github.io/mywebsite/p/</loc>
+    <loc>https://mywebsite.lizicai.com/categories/linux/</loc>
     <lastmod>2021-08-03T00:48:36+08:00</lastmod>
   </url><url>
-    <loc>https://leezicai.github.io/mywebsite/p/test/</loc>
+    <loc>https://mywebsite.lizicai.com/categories/mac/</loc>
     <lastmod>2021-08-03T00:48:36+08:00</lastmod>
   </url><url>
-    <loc>https://leezicai.github.io/mywebsite/categories/</loc>
+    <loc>https://mywebsite.lizicai.com/p/</loc>
+    <lastmod>2021-08-03T00:48:36+08:00</lastmod>
   </url><url>
-    <loc>https://leezicai.github.io/mywebsite/tags/</loc>
+    <loc>https://mywebsite.lizicai.com/series/</loc>
+    <lastmod>2021-08-03T00:48:36+08:00</lastmod>
+  </url><url>
+    <loc>https://mywebsite.lizicai.com/tags/</loc>
+    <lastmod>2021-08-03T00:48:36+08:00</lastmod>
+  </url><url>
+    <loc>https://mywebsite.lizicai.com/p/test/</loc>
+    <lastmod>2021-08-03T00:48:36+08:00</lastmod>
+  </url><url>
+    <loc>https://mywebsite.lizicai.com/tags/test/</loc>
+    <lastmod>2021-08-03T00:48:36+08:00</lastmod>
+  </url><url>
+    <loc>https://mywebsite.lizicai.com/series/test/</loc>
+    <lastmod>2021-08-03T00:48:36+08:00</lastmod>
+  </url><url>
+    <loc>https://mywebsite.lizicai.com/categories/windows/</loc>
+    <lastmod>2021-08-03T00:48:36+08:00</lastmod>
+  </url><url>
+    <loc>https://mywebsite.lizicai.com/</loc>
+    <lastmod>2021-08-03T00:48:36+08:00</lastmod>
+  </url><url>
+    <loc>https://mywebsite.lizicai.com/about/</loc>
+    <lastmod>2021-06-22T14:38:31+08:00</lastmod>
+  </url><url>
+    <loc>https://mywebsite.lizicai.com/archives/</loc>
+  </url><url>
+    <loc>https://mywebsite.lizicai.com/search/</loc>
   </url>
 </urlset>
